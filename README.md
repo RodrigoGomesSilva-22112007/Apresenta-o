@@ -4,7 +4,7 @@
 Sou um entusiasta de tecnologia e desenvolvimento, sempre em busca de aprender novas ferramentas e metodologias. Gosto de criar soluções práticas e eficientes, com foco em código limpo e boas práticas.
 
 ## 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** JavaScript, Python, HTML/CSS
+- **Linguagens:** PHP, JavaScript, Python, HTML/CSS
 - **Bancos de Dados:** MySQL, SQL Server
 - **Ferramentas:** GitHub, VS Code
 
